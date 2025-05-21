@@ -87,7 +87,6 @@
       <book category="schematic" name="https://www.st.com/resource/en/schematic_pack/mb1367-g474re-c04_schematic.pdf" title="Schematics"/>
       <book category="other"     name="Documents/README.md" title="Guide"/>
       <mountedDevice    deviceIndex="0" Dvendor="STMicroelectronics:13" Dname="STM32G474RETx"/>
-      <compatibleDevice deviceIndex="0" Dvendor="STMicroelectronics:13" DsubFamily="STM32G474"/>
       <feature type="ODbg"      n="1"              name="On-board ST-LINK-V3E"/>
       <feature type="XTAL"      n="24000000"       name="24 MHz Crystal Oscillator"/>
       <feature type="PWR"       n="4"              name="USB VBUS, ext. VIN, ext. 5V, 5V_CHRG"/>
