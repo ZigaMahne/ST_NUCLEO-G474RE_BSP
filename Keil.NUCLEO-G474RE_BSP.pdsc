@@ -21,6 +21,8 @@
       - rename thread IDs
       - modify app_main_thread (replace loop forever)
       - add DWARF-5 debug information
+      - Updated RTE_Components.h file.
+      - Add Blinky+NUCLEO-G474RE.dbgconf and Blinky+NUCLEO-G474RE.dbgconf.base@0.0.0.
     </release>
     <release version="1.0.0" date="2021-09-28">
       Board description and documentation for NUCLEO-G474RE
